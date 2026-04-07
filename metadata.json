@@ -1,0 +1,5 @@
+{
+  "name": "LuminaLib - Advanced Library Management System",
+  "description": "A production-ready library management system featuring JWT auth, role-based access, book tracking, and analytics dashboards.",
+  "requestFramePermissions": []
+}
